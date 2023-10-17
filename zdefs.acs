@@ -301,13 +301,16 @@
 #define APROP_AttackZOffset	40
 #define APROP_StencilColor	41
 #define APROP_Friction		42
-#define APROP_DamageMultiplier	43
-#define APROP_MaxStepHeight 44
-#define APROP_MaxDropOffHeight 45
-#define APROP_DamageType	46
-#define APROP_SoundClass	47
-#define APROP_FriendlySeeBlocks 48
-#define APROP_WaterDepth 49
+#define APROP_DamageMultiplier 43
+#define APROP_Pid			44
+#define APROP_PName			45
+#define APROP_DrawPidInfo	46
+#define APROP_MaxStepHeight 47
+#define APROP_MaxDropOffHeight 48
+#define APROP_DamageType	49
+#define APROP_SoundClass	50
+#define APROP_FriendlySeeBlocks 51
+#define APROP_WaterDepth 52
 
 // New to Eternity
 #define APROP_Counter0      100
